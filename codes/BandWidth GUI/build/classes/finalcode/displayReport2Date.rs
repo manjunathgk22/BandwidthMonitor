@@ -1,0 +1,4 @@
+frontend.displayReport2Date
+frontend.displayReport2Date$3
+frontend.displayReport2Date$2
+frontend.displayReport2Date$1
